@@ -32,4 +32,16 @@ Legal Document Analysis: OCR is applied in the legal industry for analyzing and 
   pip install streamlit
   pip install PIL
 ```
+# Streamlit Images
 
+
+<img width="603" alt="Screenshot 2024-01-25 100644" src="https://github.com/sanjayravichander/BizCard-OCR---Extracting-text-from-Image/assets/86998084/c14b0216-5a39-4e37-b4b4-4c7596866207">
+
+
+<img width="603" alt="Screenshot 2024-01-25 100755" src="https://github.com/sanjayravichander/BizCard-OCR---Extracting-text-from-Image/assets/86998084/64e72d20-f3f1-42ee-8d9e-af0b84289c34">
+
+
+<img width="603" alt="Screenshot 2024-01-25 100809" src="https://github.com/sanjayravichander/BizCard-OCR---Extracting-text-from-Image/assets/86998084/f6cd0997-0842-4b33-bdad-5f17b2e66999">
+
+
+<img width="603" alt="Screenshot 2024-01-25 100820" src="https://github.com/sanjayravichander/BizCard-OCR---Extracting-text-from-Image/assets/86998084/44688525-e1f9-46ef-a87e-ee42ecaae490">
